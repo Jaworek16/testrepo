@@ -1,0 +1,1 @@
+prin ("Trynkiewicz nie zyje")
